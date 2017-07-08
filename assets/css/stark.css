@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/*=================================*/
+body {
+  background-color: #121212;
+  font-family: 'Lato', sans-serif !important;
+  color: #fcfcfc;
+}
+.menu-nav {
+  font-size: 110%;
+}
+.menu-nav ul {
+  text-align: right;
+  float: left;
+  list-style: none;
+}
+.menu-nav ul li{
+  display: inline-block;
+  padding-right: 10%;
+  margin-top: 10%;
+}
+.menu-nav ul li a {
+  text-decoration: none;
+  color: #fcfcfc
+}
